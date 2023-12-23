@@ -1,0 +1,14 @@
+C:\Users\kapaz\OneDrive\Área de Trabalho\DESAFIO ESTACIONAMENTO EM c#\bin\Debug\net8.0\DESAFIO ESTACIONAMENTO EM c#.exe
+C:\Users\kapaz\OneDrive\Área de Trabalho\DESAFIO ESTACIONAMENTO EM c#\bin\Debug\net8.0\DESAFIO ESTACIONAMENTO EM c#.deps.json
+C:\Users\kapaz\OneDrive\Área de Trabalho\DESAFIO ESTACIONAMENTO EM c#\bin\Debug\net8.0\DESAFIO ESTACIONAMENTO EM c#.runtimeconfig.json
+C:\Users\kapaz\OneDrive\Área de Trabalho\DESAFIO ESTACIONAMENTO EM c#\bin\Debug\net8.0\DESAFIO ESTACIONAMENTO EM c#.dll
+C:\Users\kapaz\OneDrive\Área de Trabalho\DESAFIO ESTACIONAMENTO EM c#\bin\Debug\net8.0\DESAFIO ESTACIONAMENTO EM c#.pdb
+C:\Users\kapaz\OneDrive\Área de Trabalho\DESAFIO ESTACIONAMENTO EM c#\obj\Debug\net8.0\DESAFIO ESTACIONAMENTO EM c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapaz\OneDrive\Área de Trabalho\DESAFIO ESTACIONAMENTO EM c#\obj\Debug\net8.0\DESAFIO ESTACIONAMENTO EM c#.AssemblyInfoInputs.cache
+C:\Users\kapaz\OneDrive\Área de Trabalho\DESAFIO ESTACIONAMENTO EM c#\obj\Debug\net8.0\DESAFIO ESTACIONAMENTO EM c#.AssemblyInfo.cs
+C:\Users\kapaz\OneDrive\Área de Trabalho\DESAFIO ESTACIONAMENTO EM c#\obj\Debug\net8.0\DESAFIO ESTACIONAMENTO EM c#.csproj.CoreCompileInputs.cache
+C:\Users\kapaz\OneDrive\Área de Trabalho\DESAFIO ESTACIONAMENTO EM c#\obj\Debug\net8.0\DESAFIO ESTACIONAMENTO EM c#.dll
+C:\Users\kapaz\OneDrive\Área de Trabalho\DESAFIO ESTACIONAMENTO EM c#\obj\Debug\net8.0\refint\DESAFIO ESTACIONAMENTO EM c#.dll
+C:\Users\kapaz\OneDrive\Área de Trabalho\DESAFIO ESTACIONAMENTO EM c#\obj\Debug\net8.0\DESAFIO ESTACIONAMENTO EM c#.pdb
+C:\Users\kapaz\OneDrive\Área de Trabalho\DESAFIO ESTACIONAMENTO EM c#\obj\Debug\net8.0\DESAFIO ESTACIONAMENTO EM c#.genruntimeconfig.cache
+C:\Users\kapaz\OneDrive\Área de Trabalho\DESAFIO ESTACIONAMENTO EM c#\obj\Debug\net8.0\ref\DESAFIO ESTACIONAMENTO EM c#.dll
